@@ -1,9 +1,9 @@
-h1>Random Quote Generator</h1>
+h2>Random Quote Generator</h2>
 <div class="white-box">
   <div class="quote">
     <i class="fa fa-quote-left fa-3x"></i> 
     <p class="random-quote"> <span id="text"></span></p>
-  </div>
+  </div> a new html added to this page
   <div class="random-author">- <span id="author"></span>
   </div>
   <div class= "buttons">
